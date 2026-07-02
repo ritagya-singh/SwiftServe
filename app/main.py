@@ -41,3 +41,16 @@ app.include_router(recipe_router)
 app.include_router(order_router)
 
 app.include_router(payment_router)
+
+@app.get("/")
+def root():
+    return {
+        "message": "SwiftServe API is running 🚀"
+    }
+
+
+@app.get("/health")
+def health():
+    return {
+        "status": "healthy"
+    }
