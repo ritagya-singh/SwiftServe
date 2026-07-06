@@ -270,9 +270,9 @@ This project demonstrates:
 
 Backend Developer | Python | FastAPI | PostgreSQL | REST APIs
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/ritagya-singh
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/ritagya-singh-8513a624a/
 
 ---
 
